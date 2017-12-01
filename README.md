@@ -5,8 +5,7 @@ Here you have the functionality to view subreddits by just typing in their name.
 
 Instructions :
 
-1. To view the application - Go to this URL, it is hosted here : https://reddit-reader-rohithh.c9users.io/Reddit-Reader.html
-The source root directory of the hosting is here : https://reddit-reader-rohithh.c9users.io/
+1. To view the application - Go to this URL, it is hosted here : https://rohithh.github.io/
 
 2. To view a new subreddit : Enter name of subreddit and number of posts you want to see. Then press "Click me to see subreddits". Yes its that simple!
 
