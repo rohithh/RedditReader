@@ -1,7 +1,7 @@
 
 Hi There!
 Welcome to Rohith's Reddit Reader!
-Here you have the functions to view subreddits by just typing in their name.
+Here you have the functionality to view subreddits by just typing in their name.
 
 Instructions :
 
