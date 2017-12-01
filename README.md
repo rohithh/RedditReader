@@ -5,11 +5,13 @@ Here you have the functionality to view subreddits by just typing in their name.
 
 Instructions :
 
-1. Click on the Reddit-Reader.html file to open the application
+1. Download the zip file on Github, unzip and click on the Reddit-Reader.html file to open the application
 
-2. To view a new subreddit : Enter name of subreddit and number of posts you want to see. Then press "Click me to see subreddits". Yes its that simple!
+2. To directly view the application - Go to this URL : https://reddit-reader-rohithh.c9users.io/Reddit-Reader.html
 
-3. To delete a subreddit from the viewer, simply go to the subreddit that you want to remove, and click the red 'x' button! Bet you got that one right!
+3. To view a new subreddit : Enter name of subreddit and number of posts you want to see. Then press "Click me to see subreddits". Yes its that simple!
+
+4. To delete a subreddit from the viewer, simply go to the subreddit that you want to remove, and click the red 'x' button! Bet you got that one right!
 
 That besides, the subreddits show the votes and comments on them. The ones that are fetched are the same ones that a user would see when s/he navigates to the subreddit through the browser. This way the user has the latest and most updated subreddits. The subreddits that appear on the url can be clicked on and navigated to.
 
